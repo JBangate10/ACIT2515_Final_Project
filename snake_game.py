@@ -1,5 +1,6 @@
 import pygame
-from game_object import Snake, Food
+from game_object import Snake
+from food import Food
 import sys
 
 class Game:
